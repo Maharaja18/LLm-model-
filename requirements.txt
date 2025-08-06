@@ -1,0 +1,7 @@
+streamlit
+sentence-transformers
+chromadb
+langchain
+langchain-community
+transformers
+accelerate
